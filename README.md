@@ -8,10 +8,11 @@ The complete suite of tools for WordPress maintenance, security, and growth.
 
 ### Core Products
 
-- [MaintainHQ](https://github.com/MaintainHQ/maintainhq) - Core SaaS platform for WordPress maintenance
+- [MaintainHQ](https://github.com/MaintainHQ/maintainhq-web-app.git) - Core SaaS platform for WordPress maintenance
+
 - [MaintainHQ AI](https://github.com/MaintainHQ/AI) - AI-powered automation and assistance
 - [MaintainSEO](https://github.com/MaintainHQ/maintainseo) - SEO optimization and management
-- [MaintainCP](https://github.com/MaintainHQ/webhosting-control-panel) - Web hosting control panel
+- [MaintainCP](https://github.com/MaintainHQ/MaintainCP) - Web hosting control panel 
 
 ### Client Applications
 
@@ -25,7 +26,7 @@ The complete suite of tools for WordPress maintenance, security, and growth.
 - **Backend:** Python + FastAPI, PHP
 - **Frontend:** React + TypeScript
 - **Database:** PostgreSQL
-- **AI/ML:** OpenAI, Google Gemini
+- **AI/ML:** Custom "MainBot" with an emotion engine and machine learning
 - **Infrastructure:** Docker, AWS/GCP/Azure
 
 ---
@@ -145,6 +146,6 @@ MaintainHQ is a comprehensive suite of tools designed to make WordPress maintena
 
 ## 📞 Contact
 
-- **Email:** support@maintainhq.com
-- **Sales:** sales@maintainhq.com
+- **Email:** brains@maintainhq.com
+- **Sales:** rescue@maintainhq.com
 - **Security:** security@maintainhq.com
